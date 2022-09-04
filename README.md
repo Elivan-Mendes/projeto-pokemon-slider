@@ -8,12 +8,14 @@ https://elivan-mendes.github.io/projeto-pokemon-slider/
 Pokémon Slide é um mini-projeto Front-end de Slider de Cards de Pokémons, contendo descrição e informações dos Pokémons.
 
 ## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+![Mobile 1](https://github.com/Elivan-Mendes/assets/blob/main/PROJETO%20POK%C3%89MON%20SLIDER/mobile01.jpg) ![Mobile 2](https://github.com/Elivan-Mendes/assets/blob/main/PROJETO%20POK%C3%89MON%20SLIDER/mobile02.jpg) ![Mobile 3](https://github.com/Elivan-Mendes/assets/blob/main/PROJETO%20POK%C3%89MON%20SLIDER/mobile03.jpg)
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](https://github.com/Elivan-Mendes/assets/blob/main/PROJETO%20POK%C3%89MON%20SLIDER/web01.jpg)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 2](https://github.com/Elivan-Mendes/assets/blob/main/PROJETO%20POK%C3%89MON%20SLIDER/web02.jpg)
+
+![Web 3](https://github.com/Elivan-Mendes/assets/blob/main/PROJETO%20POK%C3%89MON%20SLIDER/web03.jpg)
 
 # Tecnologias utilizadas
 ## Front end
